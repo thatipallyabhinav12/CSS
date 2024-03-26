@@ -64,6 +64,11 @@ html, body {
     color: gray;
 }
 
+#nav-part3 #btn2 {
+    background-color: rgb(183, 53, 6);
+    color: white;
+}
+
 #main > h1 {
     font-size: 150px;
     font-weight: 250;
