@@ -64,10 +64,6 @@ html, body {
     color: gray;
 }
 
-#nav-part3 #btn2:hover {
-    background-color: rgb(183, 53, 6);
-}
-
 #main > h1 {
     font-size: 150px;
     font-weight: 250;
